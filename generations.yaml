@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (8T)"
+    start_year: 2010
+    end_year: 2015
+    description: "The original Audi RS 5 was based on the first-generation A5 platform and was initially offered as a coupe, with a cabriolet variant added later. It featured a naturally aspirated 4.2L V8 engine producing 450 HP, paired with a seven-speed S tronic dual-clutch transmission and quattro all-wheel drive with a crown-gear center differential providing a 40:60 front-to-rear torque split. The RS 5 featured aggressive styling with flared fenders, distinctive front bumper with larger air intakes, and oval exhaust tips. Performance was impressive, with 0-62 mph (0-100 km/h) in 4.6 seconds. The naturally aspirated V8 was celebrated for its high-revving character and sonorous exhaust note."
+
+  - name: "Second Generation (F5)"
+    start_year: 2017
+    end_year: null
+    description: "Based on the second-generation A5 platform, the current RS 5 represents a significant departure from its predecessor with the replacement of the naturally aspirated V8 with a twin-turbocharged 2.9L V6 developing 450 HP and significantly more torque. It's available in both Coupe and Sportback (five-door) body styles. The new engine delivers improved acceleration (0-62 mph in 3.9 seconds) and better fuel efficiency. The exterior features even more aggressive styling with wider fenders, RS-specific bumpers, and optional carbon fiber elements. The interior blends performance-oriented features with Audi's latest technology including the Virtual Cockpit with RS-specific displays. A facelift in 2019 updated the styling with a wider, flatter grille and revised details. The second-generation RS 5 continues to combine everyday usability with supercar-rivaling performance, now with added practicality in the Sportback variant."
