@@ -1,10 +1,23 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_A5"
+
 generations:
   - name: "First Generation (8T)"
     start_year: 2010
-    end_year: 2015
-    description: "The original Audi RS 5 was based on the first-generation A5 platform and was initially offered as a coupe, with a cabriolet variant added later. It featured a naturally aspirated 4.2L V8 engine producing 450 HP, paired with a seven-speed S tronic dual-clutch transmission and quattro all-wheel drive with a crown-gear center differential providing a 40:60 front-to-rear torque split. The RS 5 featured aggressive styling with flared fenders, distinctive front bumper with larger air intakes, and oval exhaust tips. Performance was impressive, with 0-62 mph (0-100 km/h) in 4.6 seconds. The naturally aspirated V8 was celebrated for its high-revving character and sonorous exhaust note."
+    end_year: 2011
+    description: "The original Audi RS 5 was unveiled at the 2010 Geneva Motor Show and sales began in early 2010. Based on the first-generation A5 (B8) platform, it was initially offered as a coupe. It featured a naturally aspirated 4.2L FSI V8 engine producing 450 PS (331 kW) at 8250 rpm and 430 Nm (316 lb-ft) at 4000-6000 rpm, paired with a seven-speed S tronic dual-clutch transmission and quattro all-wheel drive with a crown-gear center differential providing 40:60 front-to-rear torque split. The RS 5 featured aggressive styling with flared fenders, distinctive front bumper with large air intakes, and oval exhaust tips. Performance was impressive, with 0-62 mph (0-100 km/h) in 4.6 seconds. The naturally aspirated V8 was celebrated for its high-revving character and sonorous exhaust note."
+
+  - name: "First Generation (8T) 2012 Facelift"
+    start_year: 2012
+    end_year: 2016
+    description: "The 2012 facelift of the first-generation RS 5 was unveiled at the 2011 Frankfurt Motor Show. Changes included upgraded dampers and springs on the suspension, new electric power steering replacing engine-driven hydraulic power steering, exclusive retractable rear spoiler, red cam covers, carbon fibre intake manifold, optional piano black trim, 20-inch graphite-coloured wheels, and a sport exhaust system with black finishers. The RS 5 Cabriolet variant was added and unveiled at the 2012 Paris Motor Show, initially available as a Coupé variant with the same 4.2L FSI V8 engine. The cabriolet variant was produced from 2012-2015, while coupe production continued through 2016."
 
   - name: "Second Generation (F5)"
     start_year: 2017
+    end_year: 2019
+    description: "Based on the second-generation A5 (B9/F5) platform, the second-generation RS 5 Coupé was unveiled on 2 June 2016, with production starting in June 2016. It represents a significant departure from its predecessor with the replacement of the naturally aspirated V8 with a 2.9L twin-turbocharged FSI V6 developing 450 PS (331 kW) and 600 Nm (443 lb-ft) of torque, paired with an 8-speed automatic transmission. The RS 5 Coupé accelerates from 0-100 km/h in 3.9 seconds with a top speed of 280 km/h (174 mph). The exterior features aggressive styling with wider fenders, honeycomb grille, and larger air intakes. The RS 5 Sportback variant was unveiled at the 2018 New York Auto Show, expanding the offering beyond the coupe. The interior features Audi's Virtual Cockpit with RS-specific displays and performance-oriented technology."
+
+  - name: "Second Generation (F5) 2019 Facelift"
+    start_year: 2020
     end_year: null
-    description: "Based on the second-generation A5 platform, the current RS 5 represents a significant departure from its predecessor with the replacement of the naturally aspirated V8 with a twin-turbocharged 2.9L V6 developing 450 HP and significantly more torque. It's available in both Coupe and Sportback (five-door) body styles. The new engine delivers improved acceleration (0-62 mph in 3.9 seconds) and better fuel efficiency. The exterior features even more aggressive styling with wider fenders, RS-specific bumpers, and optional carbon fiber elements. The interior blends performance-oriented features with Audi's latest technology including the Virtual Cockpit with RS-specific displays. A facelift in 2019 updated the styling with a wider, flatter grille and revised details. The second-generation RS 5 continues to combine everyday usability with supercar-rivaling performance, now with added practicality in the Sportback variant."
+    description: "The RS 5 facelift was unveiled on 10 December 2019. Available in both Coupé and Sportback body styles, the facelift introduced refreshed design elements, updated styling with a wider, flatter grille and revised details. The second-generation RS 5 continues to feature the 2.9L twin-turbocharged FSI V6 engine producing 450 PS (331 kW) and 600 Nm (443 lb-ft) of torque. The facelift includes new technology updates and continued availability in both coupe and five-door Sportback variants, combining everyday usability with supercar-rivaling performance."
