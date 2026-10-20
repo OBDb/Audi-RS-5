@@ -1,0 +1,26 @@
+command_id: 710.77A.222AB4|fc=1
+test_cases:
+- expected_values:
+    RS5_HVBAT_CSMP_AVG_INT: 25
+    RS5_RANGE_EST_INT: 0
+  response: |-
+    77A100D622AB4005D00
+    77A2100000000000019
+- expected_values:
+    RS5_HVBAT_CSMP_AVG_INT: 25
+    RS5_RANGE_EST_INT: 0
+  response: |-
+    77A100D622AB400F300
+    77A2100000000000019
+- expected_values:
+    RS5_HVBAT_CSMP_AVG_INT: 25
+    RS5_RANGE_EST_INT: 0
+  response: |-
+    77A100D622AB4012D00
+    77A2100000000000019
+- expected_values:
+    RS5_HVBAT_CSMP_AVG_INT: 25
+    RS5_RANGE_EST_INT: 0
+  response: |-
+    77A100D622AB402C500
+    77A2100000000000019

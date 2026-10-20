@@ -1,0 +1,26 @@
+command_id: 710.77A.222A0F
+test_cases:
+- expected_values:
+    RS5_USE_BAT_CHG: 30
+  response: 77A04622A0F1E
+- expected_values:
+    RS5_USE_BAT_CHG: 31
+  response: 77A04622A0F1F
+- expected_values:
+    RS5_USE_BAT_CHG: 32
+  response: 77A04622A0F20
+- expected_values:
+    RS5_USE_BAT_CHG: 33
+  response: 77A04622A0F21
+- expected_values:
+    RS5_USE_BAT_CHG: 35
+  response: 77A04622A0F23
+- expected_values:
+    RS5_USE_BAT_CHG: 36
+  response: 77A04622A0F24
+- expected_values:
+    RS5_USE_BAT_CHG: 37
+  response: 77A04622A0F25
+- expected_values:
+    RS5_USE_BAT_CHG: 38
+  response: 77A04622A0F26

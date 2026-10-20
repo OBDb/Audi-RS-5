@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221151
+test_cases:
+- expected_values:
+    RS5_MISFIRES__CYL__4: 10218
+  response: 7E80562115127EA
+- expected_values:
+    RS5_MISFIRES__CYL__4: 10219
+  response: 7E80562115127EB
+- expected_values:
+    RS5_MISFIRES__CYL__4: 10228
+  response: 7E80562115127F4
+- expected_values:
+    RS5_MISFIRES__CYL__4: 10244
+  response: '7E8056211512804'
+- expected_values:
+    RS5_MISFIRES__CYL__4: 10245
+  response: '7E8056211512805'
+- expected_values:
+    RS5_MISFIRES__CYL__4: 10246
+  response: '7E8056211512806'

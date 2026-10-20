@@ -1,0 +1,32 @@
+command_id: 746.7B0.22260A|fc=1
+test_cases:
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 7.7
+  response: 7B00562260A004D
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 8.2
+  response: 7B00562260A0052
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 9.9
+  response: 7B00562260A0063
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 10.3
+  response: 7B00562260A0067
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 10.7
+  response: 7B00562260A006B
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 11.2
+  response: 7B00562260A0070
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 11.4
+  response: 7B00562260A0072
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 11.8
+  response: 7B00562260A0076
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 12.2
+  response: 7B00562260A007A
+- expected_values:
+    RS5_OUTSIDE_T_SYSTEM: 12.9
+  response: 7B00562260A0081

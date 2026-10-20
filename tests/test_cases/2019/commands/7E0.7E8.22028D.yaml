@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22028D
+test_cases:
+- expected_values:
+    RS5_ENG_CTRL_MODULE_T: 25.6
+  response: 7E80562028D0BAB
+- expected_values:
+    RS5_ENG_CTRL_MODULE_T: 27
+  response: 7E80562028D0BB9
+- expected_values:
+    RS5_ENG_CTRL_MODULE_T: 39.7
+  response: 7E80562028D0C38

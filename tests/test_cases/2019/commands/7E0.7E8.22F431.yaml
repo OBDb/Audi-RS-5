@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    RS5_CLR_DIST: 11166
+  response: 7E80562F4312B9E
+- expected_values:
+    RS5_CLR_DIST: 11222
+  response: 7E80562F4312BD6
+- expected_values:
+    RS5_CLR_DIST: 11302
+  response: 7E80562F4312C26
+- expected_values:
+    RS5_CLR_DIST: 11850
+  response: 7E80562F4312E4A

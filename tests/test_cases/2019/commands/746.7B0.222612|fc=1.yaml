@@ -1,0 +1,11 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    RS5_CLIMATE_T_AFTER_EVAP: 11.4
+  response: 7B0056226120072
+- expected_values:
+    RS5_CLIMATE_T_AFTER_EVAP: 24.9
+  response: 7B00562261200F9
+- expected_values:
+    RS5_CLIMATE_T_AFTER_EVAP: 25.7
+  response: 7B0056226120101

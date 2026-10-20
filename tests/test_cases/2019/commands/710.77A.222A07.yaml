@@ -1,0 +1,11 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    RS5_BAT_V_2A07: 12.761
+  response: 77A05622A072239
+- expected_values:
+    RS5_BAT_V_2A07: 15.237
+  response: 77A05622A072BE5
+- expected_values:
+    RS5_BAT_V_2A07: 15.273
+  response: 77A05622A072C09

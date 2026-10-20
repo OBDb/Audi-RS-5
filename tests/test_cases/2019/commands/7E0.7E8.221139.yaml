@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    RS5_MEAN_INJ_QUANTITY: 153.99
+  response: 7E8056211393C27
+- expected_values:
+    RS5_MEAN_INJ_QUANTITY: 163.84
+  response: '7E8056211394000'
+- expected_values:
+    RS5_MEAN_INJ_QUANTITY: 181.54
+  response: 7E80562113946EA
+- expected_values:
+    RS5_MEAN_INJ_QUANTITY: 197.36
+  response: 7E8056211394D18

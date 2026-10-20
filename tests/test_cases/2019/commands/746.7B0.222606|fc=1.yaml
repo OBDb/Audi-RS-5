@@ -1,0 +1,17 @@
+command_id: 746.7B0.222606|fc=1
+test_cases:
+- expected_values:
+    RS5_CLIMATE_RAD_FAN_ACT_DUTY: 0
+  response: 7B0056226060064
+- expected_values:
+    RS5_CLIMATE_RAD_FAN_ACT_DUTY: 0
+  response: 7B00562260600D2
+- expected_values:
+    RS5_CLIMATE_RAD_FAN_ACT_DUTY: 0
+  response: 7B00562260600FA
+- expected_values:
+    RS5_CLIMATE_RAD_FAN_ACT_DUTY: 0.4
+  response: 7B0056226060104
+- expected_values:
+    RS5_CLIMATE_RAD_FAN_ACT_DUTY: 0.4
+  response: 7B0056226060118
