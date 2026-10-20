@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.220805
+test_cases:
+- expected_values:
+    RS5_BRAKE_LIGHT_ON: 0
+    RS5_BRAKE_LIGHT_ON_VALID: 1
+    RS5_BRAKE_PRESSED: 1
+    RS5_BRAKE_PRESSED_VALID: 0
+  response: 7E9046208050A
+- expected_values:
+    RS5_BRAKE_LIGHT_ON: 1
+    RS5_BRAKE_LIGHT_ON_VALID: 1
+    RS5_BRAKE_PRESSED: 1
+    RS5_BRAKE_PRESSED_VALID: 0
+  response: 7E9046208050B

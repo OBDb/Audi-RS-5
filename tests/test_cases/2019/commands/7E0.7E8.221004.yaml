@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221004
+test_cases:
+- expected_values:
+    RS5_AAT_V2: 0.11719
+  response: 7E805621004000F
+- expected_values:
+    RS5_AAT_V2: -3.92969
+  response: 7E805621004FE09
+- expected_values:
+    RS5_AAT_V2: -0.47656
+  response: 7E805621004FFC3
+- expected_values:
+    RS5_AAT_V2: -0.14062
+  response: 7E805621004FFEE

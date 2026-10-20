@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BA
+test_cases:
+- expected_values:
+    RS5_OIL_LEVEL: 6.2148
+  response: 7E8056211BA3CB1
+- expected_values:
+    RS5_OIL_LEVEL: 8.082
+  response: 7E8056211BA4EED
+- expected_values:
+    RS5_OIL_LEVEL: 8.7116
+  response: 7E8056211BA5513
+- expected_values:
+    RS5_OIL_LEVEL: 8.8304
+  response: 7E8056211BA563C

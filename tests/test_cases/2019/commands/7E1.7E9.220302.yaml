@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.220302
+test_cases:
+- expected_values:
+    RS5_DRIVE_TIME: 1441.5
+  response: '7E9056203021686'
+- expected_values:
+    RS5_DRIVE_TIME: 1442.25
+  response: '7E9056203021689'
+- expected_values:
+    RS5_DRIVE_TIME: 1443.5
+  response: 7E905620302168E
+- expected_values:
+    RS5_DRIVE_TIME: 1448
+  response: 7E90562030216A0
+- expected_values:
+    RS5_DRIVE_TIME: 1449.75
+  response: 7E90562030216A7

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221164|f=2017-
+test_cases:
+- expected_values:
+    RS5_SRV_REGEN_VALUE: 32768
+  response: '7E8056211648000'

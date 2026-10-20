@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221153
+test_cases:
+- expected_values:
+    RS5_EM_TORQ_1: 276.03125
+  response: '7E8056211532281'
+- expected_values:
+    RS5_EM_TORQ_1: 276.09375
+  response: '7E8056211532283'
+- expected_values:
+    RS5_EM_TORQ_1: 276.125
+  response: '7E8056211532284'
+- expected_values:
+    RS5_EM_TORQ_1: 276.15625
+  response: '7E8056211532285'
+- expected_values:
+    RS5_EM_TORQ_1: 276.28125
+  response: '7E8056211532289'
+- expected_values:
+    RS5_EM_TORQ_1: 276.875
+  response: 7E805621153229C
+- expected_values:
+    RS5_EM_TORQ_1: 276.9375
+  response: 7E805621153229E

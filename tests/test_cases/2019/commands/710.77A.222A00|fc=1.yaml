@@ -1,0 +1,26 @@
+command_id: 710.77A.222A00|fc=1
+test_cases:
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 13
+  response: 77A04622A0018
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 13.2
+  response: 77A04622A001A
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 13.3
+  response: 77A04622A001B
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 13.5
+  response: 77A04622A001D
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 13.8
+  response: 77A04622A0020
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 14.7
+  response: 77A04622A0029
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 15.4
+  response: 77A04622A0030
+- expected_values:
+    RS5_MQB_GEN_TRG_V: 15.5
+  response: 77A04622A0031

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22112C|f=2017-
+test_cases:
+- expected_values:
+    RS5_SPARK_EFFICIENCY_DEV: 4.686
+  response: 7E80462112C06

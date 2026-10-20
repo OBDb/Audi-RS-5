@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    RS5_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
+    RS5_VSS: 23
+  response: 7E80462F40D17
+- expected_values:
+    RS5_VSS: 24
+  response: 7E80462F40D18
+- expected_values:
+    RS5_VSS: 25
+  response: 7E80462F40D19
+- expected_values:
+    RS5_VSS: 59
+  response: 7E80462F40D3B
+- expected_values:
+    RS5_VSS: 63
+  response: 7E80462F40D3F
+- expected_values:
+    RS5_VSS: 66
+  response: 7E80462F40D42
+- expected_values:
+    RS5_VSS: 94
+  response: 7E80462F40D5E
+- expected_values:
+    RS5_VSS: 129
+  response: 7E80462F40D81
+- expected_values:
+    RS5_VSS: 130
+  response: 7E80462F40D82

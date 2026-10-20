@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    RS5_VPWR: 12.26
+  response: 7E80562F4422FE4
+- expected_values:
+    RS5_VPWR: 13.08
+  response: 7E80562F4423318
+- expected_values:
+    RS5_VPWR: 14.88
+  response: 7E80562F4423A20
